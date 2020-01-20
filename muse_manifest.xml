@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="argopstem.org" resolutions="1x" timestamp="1579559187081">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="argopstem.org" resolutions="1x" timestamp="1579563591556">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4149983408" ref="contact:about:argolaunches:blog:index:events"/>
+    <file name="master_a-master.css" crc="4197454256" ref="contact:about:argolaunches:blog:index:events"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact:about:argolaunches:blog:index:events"/>
     <file name="contact.css" crc="3973470175" ref="contact"/>
     <file name="nomq_contact.css" crc="242130435" ref="contact"/>
@@ -51,7 +51,7 @@
       <caption webpage="events" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4259274597" seo="true" mt="1548362067119" redirect="true"/>
+  <file name="index.html" crc="3909431081" seo="true" mt="1579563485329" redirect="true"/>
   <file name="blog.html" crc="4035016840" seo="true" mt="1548362313472" redirect="true"/>
   <file name="events.html" crc="4100595529" seo="true" mt="1579559098779" redirect="true"/>
   <file name="about.html" crc="91114447" seo="true" mt="1548362373886" redirect="true"/>
