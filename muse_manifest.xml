@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="argopstem.org" resolutions="1x" timestamp="1579557932689">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="argopstem.org" resolutions="1x" timestamp="1579559187081">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4197454256" ref="contact:about:argolaunches:blog:index:events"/>
+    <file name="master_a-master.css" crc="4149983408" ref="contact:about:argolaunches:blog:index:events"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact:about:argolaunches:blog:index:events"/>
-    <file name="contact.css" crc="54879470" ref="contact"/>
-    <file name="nomq_contact.css" crc="3956986285" ref="contact"/>
+    <file name="contact.css" crc="3973470175" ref="contact"/>
+    <file name="nomq_contact.css" crc="242130435" ref="contact"/>
     <file name="about.css" crc="3927143176" ref="about"/>
     <file name="nomq_about.css" crc="307255508" ref="about"/>
     <file name="argolaunches.css" crc="4060908473" ref="argolaunches"/>
@@ -13,8 +13,8 @@
     <file name="nomq_blog.css" crc="3878811087" ref="blog"/>
     <file name="index.css" crc="210389572" ref="index"/>
     <file name="nomq_index.css" crc="451175659" ref="index"/>
-    <file name="events.css" crc="4211617099" ref="events"/>
-    <file name="nomq_events.css" crc="4253876243" ref="events"/>
+    <file name="events.css" crc="3828967897" ref="events"/>
+    <file name="nomq_events.css" crc="131861326" ref="events"/>
   </folder>
   <folder name="fonts">
     <file name="futura bold.woff" crc="54164926"/>
@@ -39,13 +39,22 @@
     <file name="form-u4917.php" crc="195040069" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="313579650" ref="index:contact"/>
+    <file name="favicon.ico" crc="313579650" ref="index:events"/>
     <file name="blank.gif" crc="4208392903" ref="index:blog:events:about:argolaunches:contact"/>
+    <file name="dodgeball.jpg" crc="3945394825" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="dodgeball180x180.jpg" crc="63731688" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
+    <file name="dodgeball93x93.jpg" crc="3882656797" seo="true" ref="events">
+      <caption webpage="events" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4259274597" seo="true" mt="1548362067119" redirect="true"/>
   <file name="blog.html" crc="4035016840" seo="true" mt="1548362313472" redirect="true"/>
-  <file name="events.html" crc="416644143" seo="true" mt="1548651412046" redirect="true"/>
+  <file name="events.html" crc="4100595529" seo="true" mt="1579559098779" redirect="true"/>
   <file name="about.html" crc="91114447" seo="true" mt="1548362373886" redirect="true"/>
   <file name="argolaunches.html" crc="3961915942" seo="true" mt="1548362394534" redirect="true"/>
-  <file name="contact.html" crc="3922983490" seo="true" mt="1579557918762" redirect="true"/>
+  <file name="contact.html" crc="4168061690" seo="true" mt="1579559172588" redirect="true"/>
 </manifest>

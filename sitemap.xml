@@ -14,9 +14,18 @@
   </url>
   <url>
     <loc>http://argopstem.org/events.html</loc>
-    <lastmod>2019-01-27</lastmod>
+    <lastmod>2020-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://argopstem.org/images/dodgeball.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://argopstem.org/images/dodgeball180x180.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://argopstem.org/images/dodgeball93x93.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://argopstem.org/about.html</loc>
